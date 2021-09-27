@@ -1,6 +1,6 @@
 # CODIGO-MESTRADO
 
-
+## CÓDIGOS ( GPS E TEMPERATURA) :
 O código aqui apresentado está dividido em 3:
 
 - CÓDIGO GPS : Código utilizado no TTGO para  os três experimentos dos dados de GPS.
@@ -8,8 +8,6 @@ O código aqui apresentado está dividido em 3:
 - CÓDIGO TEMPERATURA : Código utilizado no TTGO para  os três experimentos dos dados de Temperatura.
 
 - ARDUINO ENERGIA :  Código utilizado para a aferição energética utilizando os dois conversores : ADS1115 e INA219 no ARDUINO
-
-## CÓDIGOS ( GPS E TEMPERATURA)
 
 O algoritmo de Huffman e Aritmético são adaptações dos códigos disponibilizados em :
 
